@@ -55,7 +55,7 @@ export default function Home() {
         <meta name="description" content="Explore the portfolio of Karim Moataz, showcasing his notable achievements and diverse projects. Welcome to a journey through innovation, creativity."/>
         <meta name="keywords" content="Karim Moataz, portfolio, achievements, projects, innovation, creativity, professional excellence, web development, software engineering, technology, digital portfolio, personal website"/>
         <meta name="robots" content="index, follow"/>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="language" content="English"/>
         <meta name="revisit-after" content="1 days"/>
         <meta name="author" content="Karim Moataz"/>
